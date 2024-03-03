@@ -1,2 +1,2 @@
 # JS_Projects
-Weather App
+Weather App (using TailWindCss)
